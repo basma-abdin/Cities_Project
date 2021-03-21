@@ -3,7 +3,7 @@
 Content of this project.
 
    - Server (Nodejs and ExpressJs)
-   - Client (Angular)
+   - Client (ReactJs)
 # Description
     API and website for displaying france cities got from database (mysql)
 # Installation
