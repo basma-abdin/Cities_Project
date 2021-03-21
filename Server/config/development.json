@@ -1,0 +1,7 @@
+{
+  "HOST": "localhost",
+  "DB_USER": "test",
+  "DB_PASS":"test",
+  "DB_DATABASE" : "test_cdi",
+  "PORT": 8000
+}
