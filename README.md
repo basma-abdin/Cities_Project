@@ -24,7 +24,7 @@ $ npm start
 ```
 Frontend:
 ```Sh
-$ cd Client
+$ cd Client/villes_client
 $ npm install
 $ npm start
 ```
